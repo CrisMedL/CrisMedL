@@ -1,25 +1,43 @@
 # 🤓 About Me
-I enjoy working on the backend side of applications, where structure and logic matter the most.
+I enjoy working on the backend side of applications, where structure and logic matter the most. <br>
 I'm particularly interested in **database design**, **data modeling**, and **system architecture**, and I like building systems that are clean, scalable, and easy to work with.
 
 I’ve worked on API-driven applications where I handled things like business logic, data relationships, and backend structure, making sure everything connects properly between the database and the frontend.
 
 # 🚀What I Work On
 
-Designing and building REST APIs
-Structuring databases and relationships
-Backend architecture for small SaaS-style systems
-Mobile development using Flutter
+- Designing and building REST APIs
+- Structuring databases and relationships
+- Backend architecture for small SaaS-style systems
+- Mobile development using Flutter
 
 # 🛠 Tech
 
-[![](https://skillicons.dev/icons?i=dart,flutter,git,github,mysql,md,flask,py,vscodium&perline=3)](https://skillicons.dev)
+## 🧠 Languages
+
+[![](https://skillicons.dev/icons?i=dart,py&perline=3)](https://skillicons.dev)
+
+## ⚙️ Backend
+
+[![](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+
+## 🗄️ Database
+
+[![](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+## 📱Mobile Development
+
+[![](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+## 🛠 Tools & Workflow
+
+[![](https://skillicons.dev/icons?i=git,github,vscodium,md)](https://skillicons.dev)
 
 # 📌 Interests
-API Engineering
-Backend Architecture
-Scalable Systems
-Mobile App Development
+- API Engineering
+- Backend Architecture
+- Scalable Systems
+- Mobile App Development
 
 # 🎸 Outside of Tech
 
